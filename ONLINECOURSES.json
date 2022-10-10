@@ -47,5 +47,42 @@
       "platform": "youtube",
       "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
       "type": "free"
+   },
+   {
+      "id": "8",
+      "courseName": " AtHomeWithAI Curated Resource List",
+      "platform": "Multiple platforms",
+      "courseLink": "https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf",
+      "type": "free"
+   },
+   {
+      "id": "9",
+      "courseName": "Gentle Introduction to Machine Learning",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+      "type": "free"
+   },
+   {
+      "id": "10",
+      "courseName": "Blockchain and Money",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn",
+      "type": "free"
+   },
+   {
+      "id": "11",
+      "courseName": "Neural Networks by Andrej Karpathy",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+      "type": "free"
+   },
+   {
+      "id": "12",
+      "courseName": "Neural Networks Demystified (Visual approach)",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU",
+      "type": "free"
    }
+   
+   
 ]
